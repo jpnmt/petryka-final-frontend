@@ -54,7 +54,16 @@ export default tseslint.config({
 ```
 
 
+npm install
+npm run dev
 
+runs with vite
+
+run on port 5173
+
+runs along side petryka-final-backend
+
+ensure both run at the same time in two different tabs
 
 
 
